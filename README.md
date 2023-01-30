@@ -7,6 +7,9 @@ Course      : GNR 602
 Instructor  : Prof. B. Krishna Mohan
 
 Team Members:
+
 N V Sai Gangadhar
+
 Rongali Sai Bhargav
+
 Ansh Charak
